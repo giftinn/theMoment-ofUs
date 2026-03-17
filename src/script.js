@@ -14,10 +14,10 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.JPG">
+<img class="cover" src="src/pict.png">
 <div class="songInfo">
-<div>You'll be in my heart</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Phil Collins</div>
+<div>Waltz for Moon </div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Hodge</div>
 
 <div class="player">
 <div class="topRow">
@@ -45,19 +45,19 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.JPG" class="filmPic">
-<img src="src/2.JPG" class="filmPic">
-<img src="src/3.JPG" class="filmPic">
-<img src="src/4.JPG" class="filmPic">
-<img src="src/5.JPG" class="filmPic">
-<img src="src/pict.JPG" class="filmPic">
+<img src="src/1.png" class="filmPic">
+<img src="src/2.png" class="filmPic">
+<img src="src/3.png" class="filmPic">
+<img src="src/4.png" class="filmPic">
+<img src="src/5.png" class="filmPic">
+<img src="src/6.png" class="filmPic">
 
-<img src="src/1.JPG" class="filmPic">
-<img src="src/2.JPG" class="filmPic">
-<img src="src/3.JPG" class="filmPic">
-<img src="src/4.JPG" class="filmPic">
-<img src="src/5.JPG" class="filmPic">
-<img src="src/pict.JPG" class="filmPic">
+<img src="src/1.png" class="filmPic">
+<img src="src/2.png" class="filmPic">
+<img src="src/3.png" class="filmPic">
+<img src="src/4.png" class="filmPic">
+<img src="src/5.png" class="filmPic">
+<img src="src/6.png" class="filmPic">
 
 </div>
 </div>
@@ -110,13 +110,9 @@ html:`
 <span class="signal">TRANSMISSION START</span><br>
 
 
-Nine months with you feels both long and short at the same time. Long, because we’ve shared so many moments, memories, and feelings together. Short, because every day with you still feels new and exciting to me.
+march felt beautiful, and i think it’s because i spent it with you. thank you for choosing to walk through this month with me, for being here, and for letting me call you mine. being with you makes even the simplest days feel warm and meaningful, and i’m so happy that i get to experience them with you.
 
-Thank you for staying, for being patient with me, and for loving me even when I’m not at my best. You make my days brighter, my problems lighter, and my heart calmer. Being with you is one of the best things that has ever happened to me.
-
-These nine months are just a small part of our story, but they already mean so much to me. I hope we continue growing together, learning about each other, and making more memories that we can look back on someday.
-
-I don’t know what the future will look like, but I know that having you in my life is something I’m truly grateful for. Happy 9 months to us, and I hope this is only the beginning of many more memories, laughs, and moments together.
+you are truly the best gift this year has given me, and i don’t think i’ll ever get tired of telling you that. happy second monthversary, arbaen diaksa alvarez. i’m grateful for you, today and always.
 
 
 <span class="signal">END SIGNAL</span>
