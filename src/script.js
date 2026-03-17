@@ -71,7 +71,7 @@ html:`
 <div class="player" style="width:100%">
 
 <div class="topRow">
-<div class="playIcon" onclick="playVoice('src/audio.mp3',this)">▶</div>
+<div class="playIcon" onclick="playVoice('src/a.mp3',this)">▶</div>
 
 <div class="progressWrap" onclick="seek(event)">
 <div class="progressBar" id="progressBar"></div>
