@@ -382,11 +382,13 @@ btn.textContent="▶";
 }
 
 function playVoice(src,el){
+
 if(audio.src.includes(src)&&!audio.paused){
 audio.pause();
 el.textContent="▶";
 }else{
 audio.src=src;
+audio.volume = 1.0; // 🔊 set setelah src
 audio.play();
 document.querySelectorAll(".playIcon").forEach(i=>i.textContent="▶");
 el.textContent="⏸";
